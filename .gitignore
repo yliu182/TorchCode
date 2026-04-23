@@ -5,7 +5,6 @@ __pycache__/
 data/progress.json
 data/*.db
 .DS_Store
-notebooks/
 
 # PyPI build artifacts
 dist/

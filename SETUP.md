@@ -66,3 +66,8 @@ make run
 # Set origin to your fork
 git remote set-url origin https://github.com/yliu182/TorchCode.git
 ```
+
+
+# To run command: 
+
+jupyter notebook notebooks/01_relu.ipynb
