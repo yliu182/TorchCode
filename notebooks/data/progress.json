@@ -1,6 +1,8 @@
 {
   "relu": {
-    "status": "attempted",
-    "attempts": 1
+    "status": "solved",
+    "attempts": 3,
+    "solved_at": "2026-04-22T23:53:30.852264",
+    "best_time": 0.045472875935956836
   }
 }
