@@ -70,5 +70,9 @@
     "solved_at": "2026-04-27T14:15:21.551145",
     "best_time": 0.02872787497472018,
     "attempts": 1
+  },
+  "cross_entropy": {
+    "status": "attempted",
+    "attempts": 1
   }
 }
