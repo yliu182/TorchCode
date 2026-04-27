@@ -58,5 +58,11 @@
     "solved_at": "2026-04-27T12:35:34.200635",
     "best_time": 0.008076584083028138,
     "attempts": 2
+  },
+  "sliding_window": {
+    "status": "solved",
+    "solved_at": "2026-04-27T13:32:25.327358",
+    "best_time": 0.02727691608015448,
+    "attempts": 1
   }
 }
