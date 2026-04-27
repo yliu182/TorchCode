@@ -64,5 +64,11 @@
     "solved_at": "2026-04-27T13:32:25.327358",
     "best_time": 0.02727691608015448,
     "attempts": 1
+  },
+  "linear_attention": {
+    "status": "solved",
+    "solved_at": "2026-04-27T14:15:21.551145",
+    "best_time": 0.02872787497472018,
+    "attempts": 1
   }
 }
