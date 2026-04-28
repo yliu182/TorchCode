@@ -98,5 +98,11 @@
     "solved_at": "2026-04-27T20:48:51.538571",
     "best_time": 0.021793624036945403,
     "attempts": 1
+  },
+  "embedding": {
+    "status": "solved",
+    "solved_at": "2026-04-27T21:14:20.008071",
+    "best_time": 0.02123683411628008,
+    "attempts": 1
   }
 }
