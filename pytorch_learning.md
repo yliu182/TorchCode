@@ -4,7 +4,7 @@
 
 ## Part 1: Common Mistakes
 
-### 1. `torch.transpose` 需要指定维度
+### 1 test. `torch.transpose` 需要指定维度
 
 在实现 `SimpleLinear` 时，想计算 `y = x @ W^T + b`：
 
